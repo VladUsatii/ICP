@@ -1,4 +1,4 @@
-# Internet Coin Protocol
+# TempCoin Alpha
 
 An implementation of IP-based fund withdrawal & deposits.
 
